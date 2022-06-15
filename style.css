@@ -1,0 +1,49 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+#camw
+{
+    width:140px;
+}
+#camw:hover
+{    width: 175px ;
+    margin-bottom: 50px ;
+    border-radius: 50% ;
+}
+#cams:hover{
+    width: 175px ;
+    margin-bottom: 50px ;
+    border-radius: 40% ;
+}
+#camw
+{
+  width: 200px;  
+}
+#thes:hover{
+    width: 175px ;
+    margin-bottom: 50px ;
+    border-radius: 50% ;
+}
+#thes
+{
+    width:390px;
+}
+.back {
+    background-color: cornflowerblue;
+}
